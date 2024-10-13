@@ -8,12 +8,12 @@ export default {
       isHoverd: false,
       currentImage: 0,
       images: [
-        'src\\assets\\img\\IMG_4707.JPG',
-        'src\\assets\\img\\IMG_4679.JPG',
-        'src\\assets\\img\\IMG_4662.JPG',
-        'src\\assets\\img\\IMG_4627.JPG',
-        'src\\assets\\img\\IMG_4613.JPG',
-        'src\\assets\\img\\IMG_4599.JPG',
+        '..\\src\\assets\\img\\IMG_4707.JPG',
+        '..\\src\\assets\\img\\IMG_4679.JPG',
+        '..\\src\\assets\\img\\IMG_4662.JPG',
+        '..\\src\\assets\\img\\IMG_4627.JPG',
+        '..\\src\\assets\\img\\IMG_4613.JPG',
+        '..\\src\\assets\\img\\IMG_4599.JPG',
       ]
     };
   },
